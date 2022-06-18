@@ -43,7 +43,7 @@ public class Curso {
     List<String> dataInicio = new ArrayList<>();
     List<String> turmasRelativas = new ArrayList<>();
 
-    //Preenche as listas com dados dos cursos (Precisa ser melhorado).
+    //Preenche as listas com dados dos cursos.
     public void registroCursos(){
 
         turmas.add("turma1");
